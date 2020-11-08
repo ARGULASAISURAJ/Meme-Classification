@@ -11,7 +11,7 @@ This study aims to detect sarcasm/hateful memes by using text and image features
 3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 4. [Data Modelling](#Data-Modelling)
 5. [Contact](#Contact)
-6. [Acknowledgments](#Acknowledgment)
+6. [Acknowledgements](#Acknowledgement)
 
 
 Link to Raw memes in google drive-
