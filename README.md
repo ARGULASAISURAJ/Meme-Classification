@@ -1,13 +1,23 @@
-# Meme-Classification- # Text-Analytics-Project--Fall-2020
+# Meme-Classification- Text-Analytics
 
 This study aims to detect sarcasm/hateful memes by using text and image features in unimodal(using only text) and multimodal(using text and image data) fashion to see the performance of the classifier in detecting sarcasm/hate.
+
+## Table of Contents:
+
+1. [Data preparation](#Data-preparation)
+2. Pre-processing
+3. Exploratory Data Analysis
+4. Data Modelling
+5. Contact
+6. Acknowledgment
+
 
 Link to Raw memes in google drive-
 https://drive.google.com/drive/folders/1QCbkMCfQGm1_-kYKil7LdJ1Hzv932N0a?usp=sharing
 
-## Project workflow(Refer to project report) Files- Workflow
 
-1. **Text-mining-Data-preparation-Final.ipynb**
+## Data preparation:
+
 --> The first section code is about extracting text, Objects and Labels from Google API using Google API Secured key. Merging the labelled data from annotators and raw prepared data. Twitter memes extraction program is in Another file with name- **twitter_memes_extraction.ipynb**
 
 The output labels,objects and text are in the CSV file -> Full_data.csv
