@@ -16,14 +16,14 @@ Link to Raw memes in google drive-
 https://drive.google.com/drive/folders/1QCbkMCfQGm1_-kYKil7LdJ1Hzv932N0a?usp=sharing
 
 
-## Data preparation: [link](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text-mining-Data-preparation-Final.ipynb)
+## Data preparation:                                                                                                                                              [link](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text-mining-Data-preparation-Final.ipynb)
 
 --> The first section code is about extracting text, Objects and Labels from Google API using Google API Secured key. Merging the labelled data from annotators and raw prepared data. Twitter memes extraction code is in a file with name- **twitter_memes_extraction.ipynb**
 
 The output labels,objects and text are in the CSV file -> Full_data.csv
 Labeled memes taken into model consideration-> Final_df.csv
 
-## PreProcessing: [link](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text_Analytics_Project_PreProcessing-Final.ipynb)
+## Pre-processing:                                                                                                                                                [link](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text_Analytics_Project_PreProcessing-Final.ipynb)
 --> This is the file where we did text cleaning process from the Final_df.csv - the cleaned text output is in final_dataframe.csv, on which we performed Exploratory Data Analysis and Modelling.Various pre-processing techniques were used to solve OCR errors like word segmentation, Internet slang contractions, spelling correction using language models.
 
 3. **Text-mining-Data-Exploratory-Data-Analysis-Final.ipynb**
