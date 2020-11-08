@@ -1,6 +1,6 @@
 # Meme-Classification- Text-Analytics
 
-![meme](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/images.jpg)
+![meme](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/meme.jpg)
 
 This study aims to detect sarcasm/hateful memes by using text and image features in unimodal(using only text) and multimodal(using text and image data) fashion to see the performance of the classifier in detecting sarcasm/hate.
 
