@@ -38,7 +38,7 @@ Labeled memes taken into model consideration-> Final_df.csv
 
 -->This file can be run on GPU in Google collab. This is facebook community pytorch implementation of prodcution ready code for Facebook AI research project. we made minor changes to this code, so that we can compare the performaceof our model with theirs.
 
-Refer to Project document for- Insights from our current work and future possible work 
+Refer to [Project Report](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Final_report_Submission.pdf) for- Insights from our current work and future possible work 
 
 ## Contact:
 
