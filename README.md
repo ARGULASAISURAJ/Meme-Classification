@@ -44,7 +44,7 @@ Refer to [Project Report](https://github.com/ARGULASAISURAJ/Meme-Classification/
 
 Please feel free to reachout to us for any help through LinkedIn:
 * [Ashrit Kulkarni](https://www.linkedin.com/in/ashrit-kulkarni/)
-* [Suraj Arugula](https://www.linkedin.com/in/sai-suraj-argula-47900089/)
+* [Sai Suraj Argula](https://www.linkedin.com/in/sai-suraj-argula-47900089/)
 * [Nagarjuna Kanneganti](https://www.linkedin.com/in/nagarjuna-kanneganti-20ab218a/)
 
 ## Acknowledgements:
