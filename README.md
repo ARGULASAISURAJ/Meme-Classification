@@ -36,6 +36,7 @@ Labeled memes taken into model consideration-> Final_df.csv
 [Data-Modelling](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text-mining-Data-Modelling-Final.ipynb)
 --> File in which we did modelling on only text and built Multimodals on Text as well as Images. Built four models to check which type of model has outperformed others and can be used to improve the current algorithms
 
+[MultiModal DL Model](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Text-Analytics-MultiModal%20DL%20Model.ipynb)
 -->This file can be run on GPU in Google collab. This is facebook community pytorch implementation of prodcution ready code for Facebook AI research project. we made minor changes to this code, so that we can compare the performaceof our model with theirs.
 
 Refer to [Project Report](https://github.com/ARGULASAISURAJ/Meme-Classification/blob/main/Final_report_Submission.pdf) for- Insights from our current work and future possible work 
